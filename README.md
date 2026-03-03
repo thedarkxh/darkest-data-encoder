@@ -43,4 +43,5 @@ Standard encryption tools often come with heavy dependencies or environment conf
 
 
 ***Note: Keep your key at safe place if you don't plan to loose your file.***
-**This project is only for fun**
+
+**This project is only for fun.**
