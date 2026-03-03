@@ -32,7 +32,7 @@ Standard encryption tools often come with heavy dependencies or environment conf
 1. **Clone the repository:**
    ```bash
    git clone (https://github.com/thedarkxh/darkest-data-encoder.git)
-   '''bash
+
 2. **Open the folder**
 3. **Run main.py**
 4. **Select Options:**
