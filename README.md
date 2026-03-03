@@ -21,7 +21,7 @@ Standard encryption tools often come with heavy dependencies or environment conf
 ---
 
 ## 💻 Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.8.10 (Last Windows7 release, would work in morden environment)
 * **Environment:** Void Linux (ThinkPad R400)
 * **Logic Focus:** Security architecture and hardware-locked features
 
